@@ -23,6 +23,7 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
+	<link rel="shortcut icon" href="images/title.png" type="image/x-icon">
 	
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
