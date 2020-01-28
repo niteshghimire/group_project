@@ -4,40 +4,14 @@
 	<aside id="fh5co-hero">
 		<div class="flexslider">
 			<ul class="slides">
-		   	<li style="background-image: url(images/img_bg_1.jpg);">
+		   	<li style="background-image: url(images/project-2.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="row">
 			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 			   				<div class="slider-text-inner">
-			   					<h1>The Roots of Education are Bitter, But the Fruit is Sweet</h1>
-								<p><a class="btn btn-primary btn-lg" href="#">Show More</a></p>
-			   				</div>
-			   			</div>
-			   		</div>
-		   		</div>
-		   	</li>
-		   	<li style="background-image: url(images/img_bg_2.jpg);">
-		   		<div class="overlay-gradient"></div>
-		   		<div class="container">
-		   			<div class="row">
-			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
-			   				<div class="slider-text-inner">
-			   					<h1>The Great Aim of Education is not Knowledge, But Action</h1>
-								<p><a class="btn btn-primary btn-lg btn-learn" href="#">Show More</a></p>
-			   				</div>
-			   			</div>
-			   		</div>
-		   		</div>
-		   	</li>
-		   	<li style="background-image: url(images/img_bg_3.jpg);">
-		   		<div class="overlay-gradient"></div>
-		   		<div class="container">
-		   			<div class="row">
-			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
-			   				<div class="slider-text-inner">
-			   					<h1>We Help You to Learn New Things</h1>
-									<p><a class="btn btn-primary btn-lg btn-learn" href="#">Show More</a></p>
+			   					<h1>WELCOME TO NAMI LEARN !</h1>
+								<p><a class="btn btn-primary btn-lg" href="#fh5co-blog">Show More</a></p>
 			   				</div>
 			   			</div>
 			   		</div>
@@ -84,7 +58,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/img_bg_4.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
 							<span class="posted_on">March. 15th</span>
@@ -95,7 +69,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/img_bg_4.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
 							<span class="posted_on">March. 15th</span>
@@ -106,7 +80,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/img_bg_4.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
 							<span class="posted_on">March. 15th</span>

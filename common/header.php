@@ -65,7 +65,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-right">
-						<p class="site">www.namilearn.edu.np</p>
+						<p class="site">namilearn.edu.np</p>
 						<p class="num"><iframe src="https://freesecure.timeanddate.com/clock/i74qhtgz/n117/tlnp/pt5/pb0/tt0/th2" frameborder="0" width="290" height="22"></iframe></p>
 						<ul class="fh5co-social">
 							<li><a href="https://www.facebook.com/NamiCollege/" target="_blank"><i class="icon-facebook2"></i></a></li>
