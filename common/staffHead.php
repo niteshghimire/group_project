@@ -90,7 +90,8 @@
 							<li class="active"><a href="studentHome.php">Home</a></li>
 							<li class="active"><a href="courses.php">Name</a></li>
 							<li class="active"><a href="#">Courses</a></li>
-							<li class="active"><a href="#">Students </a></li>
+							<li class="active"><a href="#">Assignments </a></li>
+							<li class="active"><a href="#">Students</a></li>
 							<li class="active"><a href="#">Notifications </a></li>
 							<li class="btn-cta"><a href="login"><span>Logout</span></a></li>
 						</ul>
