@@ -88,8 +88,8 @@
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
 							<li class="active"><a href="studentHome.php">Home</a></li>
-							<li class="active"><a href="courses.php">Name</a></li>
-							<li class="active"><a href="#">Courses</a></li>
+							<li class="active"><a href="#">Name</a></li>
+							<li class="active"><a href="courses.php">Courses</a></li>
 							<li class="active"><a href="#">Assignments </a></li>
 							<li class="active"><a href="#">Students</a></li>
 							<li class="active"><a href="#">Notifications </a></li>
